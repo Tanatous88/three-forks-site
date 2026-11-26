@@ -183,6 +183,7 @@ page = f'''<!doctype html>
   <a class="brand" href="#top">Three Forks <span>Accommodations</span></a>
   <nav aria-label="Sections">
     <a href="#stays">Stays</a>
+    <a href="weekend/">This weekend</a>
     <a href="#monkey-bread">Monkey bread</a>
     <a href="#animals">The animals</a>
     <a href="#groups">Groups</a>
